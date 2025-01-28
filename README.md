@@ -12,9 +12,6 @@ https://colab.research.google.com/drive/1ekJcZyiYg5K11c0IFNngiVKq2cwDlUTr?usp=sh
     Models
     Requirements
     Usage
-    Results
-    References
-    License
 
 ## Project Overview
 
